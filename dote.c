@@ -69,7 +69,7 @@ void dote(int k)
       }
       printf("\n");
     }
-    usleep(125000); // 0.125秒
+    usleep(75000); // 0.075秒
 }
 
 int main() {
